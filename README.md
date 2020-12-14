@@ -2,7 +2,6 @@
 Leveraging predictive models to improve Automotive Safety and Travel Time
 
 Authors:  Hannah Do,  Kamil Sachryn           
-[CSCI 35300/79502]   Fall 2020
 
 
 - Collection of accident record and feature selection
