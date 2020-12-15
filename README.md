@@ -12,3 +12,6 @@ Authors:  Hannah Do,  Kamil Sachryn
 - SMOTE and random instance generation for balancing the class - 3
 
 - ML predictions and evaluation - 4
+
+
+##### Processed files ready of ML - in 'merged' folder
