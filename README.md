@@ -11,7 +11,5 @@ Authors:  Hannah Do,  Kamil Sachryn
 - Integration of twitter features into traffic accident records - merging the two datasets based on the distance between instances - 3
 - SMOTE and random instance generation for balancing the class - 3
 
-- ML predictions and evaluation - 4
+- ML predictions and evaluation (Processed files are in 'merged' folder) - 4
 
-
-##### Processed files ready of ML - in 'merged' folder
