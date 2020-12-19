@@ -1,5 +1,5 @@
 # LookBeforeYouLeap
-Leveraging predictive models to improve Automotive Safety and Travel Time
+Leveraging predictive models to improve Automotive Safety and Travel Time through Twitter Sentiment Analysis and Traffic Record Feature Selection
 
 Authors:  Hannah Do,  Kamil Sachryn           
 
