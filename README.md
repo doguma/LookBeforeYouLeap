@@ -11,6 +11,3 @@ Authors:  Hannah Do,  Kamil Sachryn
 - SMOTE and random instance generation for balancing the class - 3
 
 - ML predictions and evaluation (processed files are in 'merged' folder) - 4
-
-https://docs.google.com/viewer?url=${https://github.com/doguma/LookBeforeYouLeap/blob/main/poster_LookBeforeYouLeap.pdf}
-
