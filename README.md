@@ -12,4 +12,5 @@ Authors:  Hannah Do,  Kamil Sachryn
 
 - ML predictions and evaluation (processed files are in 'merged' folder) - 4
 
-[embed] https://github.com/doguma/LookBeforeYouLeap/blob/main/poster_LookBeforeYouLeap.pdf [/embed]
+https://docs.google.com/viewer?url=${https://github.com/doguma/LookBeforeYouLeap/blob/main/poster_LookBeforeYouLeap.pdf}
+
