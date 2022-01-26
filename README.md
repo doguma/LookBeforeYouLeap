@@ -3,6 +3,9 @@ Leveraging predictive ML models to improve Automotive Safety and Travel Time thr
 
 Authors:  Hannah Do,  Kamil Sachryn           
 
+# Project Summary
+![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/poster_image.png?raw=true "Project Summary")
+
 
 - Retrieval of tweets through Snscape, Tweepy, and geocoding through ArcGIS - 1
 - Text processing through various NLP processing and Vader methods (sentiment analysis)  - 1
@@ -13,13 +16,8 @@ Authors:  Hannah Do,  Kamil Sachryn
 
 - ML predictions and evaluation (processed files are in 'merged' folder) - 4
 
----
-# Project Summary
-![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/poster_image.png?raw=true "Project Summary")
 
----
 # Project Details
-![Test Image 1](https://github.com/doguma/LookBeforeYouLeap/blob/main/presentation_slides/p1.png)
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/presentation_slides/p1.png)
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/presentation_slides/p2.png?raw=true)
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/presentation_slides/p3.png?raw=true)
