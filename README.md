@@ -17,7 +17,7 @@ Authors:  Hannah Do,  Kamil Sachryn
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/poster_image.png?raw=true "Project Summary")
 
 ## Project Details
-![Alt text](https://github.com/doguma/LookBeforeYouLeap/presentation_slides/p1.png?raw=true)
+![Alt text](https://github.com/doguma/LookBeforeYouLeap/presentation_slides/p1.png)
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/presentation_slides/p2.png?raw=true)
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/presentation_slides/p3.png?raw=true)
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/presentation_slides/p4.png?raw=true)
