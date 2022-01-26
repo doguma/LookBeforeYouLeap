@@ -13,10 +13,12 @@ Authors:  Hannah Do,  Kamil Sachryn
 
 - ML predictions and evaluation (processed files are in 'merged' folder) - 4
 
-## Project Summary
+<hr />
+# Project Summary
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/poster_image.png?raw=true "Project Summary")
 
-## Project Details
+<hr />
+# Project Details
 ![Test Image 1](https://github.com/doguma/LookBeforeYouLeap/blob/main/presentation_slides/p1.png)
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/presentation_slides/p1.png)
 ![Alt text](https://github.com/doguma/LookBeforeYouLeap/blob/main/presentation_slides/p2.png?raw=true)
